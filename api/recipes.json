@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Porc au caramel",
+      "author": "Alix",
+      "durationInMinutes": 30
+    },
+    {
+      "title": "Pizza margherita",
+      "author": "Sylvan",
+      "durationInMinutes": 30
+    },
+    {
+      "title": "Bistecca alla fiorentina",
+      "author": "Il Toscano",
+      "durationInMinutes": 10
+    },
+    {
+      "title": "Boeuf bourguignon",
+      "author": "Recettes FR",
+      "durationInMinutes": 120
+    },
+    {
+      "title": "Escalope à la crême",
+      "author": "Recettes FR",
+      "durationInMinutes": 30
+    },
+    {
+      "title": "Pâtes de courgettes",
+      "author": "Alix",
+      "durationInMinutes": 40
+    },
+    {
+      "title": "Picatta Romana",
+      "author": "Sylvan",
+      "durationInMinutes": 40
+    }
+  ]
+}
