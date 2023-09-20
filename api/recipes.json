@@ -34,6 +34,26 @@
       "title": "Picatta Romana",
       "author": "Sylvan",
       "durationInMinutes": 40
+    },
+    {
+      "title": "Big Mac",
+      "author": "McDonalds",
+      "durationInMinutes": 1
+    },
+    {
+      "title": "Double Steackhouse",
+      "author": "Burger King",
+      "durationInMinutes": 1
+    },
+    {
+      "title": "Maurice Compté",
+      "author": "Boucherie Maurice",
+      "durationInMinutes": 5
+    },
+    {
+      "title": "Marcel",
+      "author": "Whitefields",
+      "durationInMinutes": 10
     }
   ]
 }
